@@ -1,0 +1,18 @@
+# Временные файлы
+*.tmp
+*.log
+
+# Каталоги сборки
+build/
+dist/
+
+# Окружение Python
+.env
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Файлы редакторов
+.vscode/
+.idea/
